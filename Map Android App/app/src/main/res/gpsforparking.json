@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527536786906",
+    "firebase_url": "https://gpsforparking.firebaseio.com",
+    "project_id": "gpsforparking",
+    "storage_bucket": "gpsforparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527536786906:android:e70227d8ecb596f0",
+        "android_client_info": {
+          "package_name": "com.aishwaryaprabhat.gpsforparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527536786906-coedhf873o5kv50b8ie4619ibg9p6tlp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aishwaryaprabhat.gpsforparking",
+            "certificate_hash": "0DEF92F4F7EA49B568CB85CB379C52B02CD90DFE"
+          }
+        },
+        {
+          "client_id": "527536786906-9aa0ldl8s2c5hn7188ms3pqbjoo8tvoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ly8diJr62j_sGL2P_d9iCZ8gp0oXJM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527536786906-9aa0ldl8s2c5hn7188ms3pqbjoo8tvoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

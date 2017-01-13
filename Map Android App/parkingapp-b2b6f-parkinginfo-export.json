@@ -1,0 +1,68 @@
+{
+  "Asia Square" : {
+    "lat" : 1.2781023,
+    "long" : 103.8487623,
+    "lots" : 50,
+    "rate" : 5.35
+  },
+  "Changi City Point" : {
+    "lat" : 1.3344135,
+    "long" : 103.963,
+    "lots" : 50,
+    "rate" : 2.5
+  },
+  "Changi Link" : {
+    "lat" : 1.3364594,
+    "long" : 103.9559766,
+    "lots" : 50,
+    "rate" : 2
+  },
+  "Chevron House" : {
+    "lat" : 1.2824976,
+    "long" : 103.8520488,
+    "lots" : 50,
+    "rate" : 4
+  },
+  "MBFC Tower 3" : {
+    "lat" : 1.2791083,
+    "long" : 103.8523881,
+    "lots" : 50,
+    "rate" : 2
+  },
+  "Marina Bay Link Mall" : {
+    "lat" : 1.2804252,
+    "long" : 103.8515449,
+    "lots" : 50,
+    "rate" : 3.21
+  },
+  "My Manhattan" : {
+    "lat" : 1.3416642,
+    "long" : 103.951472,
+    "lots" : 50,
+    "rate" : 3
+  },
+  "Simei Block 244" : {
+    "lat" : 1.3438974,
+    "long" : 103.9523213,
+    "lots" : 50,
+    "rate" : 4
+  },
+  "Simei Block 256" : {
+    "lat" : 1.3428412,
+    "long" : 103.9495822,
+    "lots" : 50,
+    "rate" : 6
+  },
+  "Singapore University of Technology and Design" : {
+    "lat" : 1.3406132,
+    "long" : 103.9609856,
+    "lots" : 50,
+    "rate" : 3
+  },
+  "The Signature" : {
+    "lat" : 1.3349805,
+    "long" : 103.9634073,
+    "lots" : 30,
+    "rate" : 5
+  }
+}

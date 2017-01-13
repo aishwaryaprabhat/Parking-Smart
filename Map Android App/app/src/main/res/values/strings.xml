@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPSforParking</string>
+    <string name="title_activity_gps">GPSActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="service_not_available">String not available</string>
+    <string name="invalid_lat_long_used">invalid lat used</string>
+    <string name="no_address_found">no address found</string>
+    <string name="address_found">address found</string>
+</resources>
